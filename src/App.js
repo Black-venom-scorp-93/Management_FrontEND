@@ -16,7 +16,6 @@ import Footer from './components/Footer'
 const Admin = lazy(() => import("./pages/Admin"))
 const About = lazy(() => import("./pages/About"))
 const Privacy = lazy(() => import("./pages/Privacy"))
-const Terms = lazy(() => import("./pages/Terms"))
 const Signup = lazy(() => import("./pages/Signup"))
 const Login = lazy(() => import("./pages/Login"))
 
